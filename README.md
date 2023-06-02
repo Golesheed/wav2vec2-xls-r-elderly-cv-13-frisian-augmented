@@ -44,3 +44,7 @@ pip install jupyter
 ```
 Make sure you change the path in all of the .csv files. If you do not want to do the augmentations yourself you can unzip the .zip files in [aug_audio](https://github.com/Golesheed/wav2vec2-xls-r-elderly-cv-13-frisian-augmented/tree/main/aug_audio).
 
+Here is a list of the models I made in hugging face for the purpose of this project, the models are not the best results but they are the results to the last experiment in hand:
+- golesheed/wav2vec2-large-xls-r-1b-frisian-cv-13-elderly on greenw0lf/wav2vec2-large-xls-r-1b-frisian
+- golesheed/wav2vec2-large-xls-r-1b-cv-13-elderly-frisian on facebook/wav2vec2-xls-r-1b
+- golesheed/wav2vec2-large-xls-r-1b-frisian-cv-13-elderly-augmented on greenw0lf/wav2vec2-large-xls-r-1b-frisian 
